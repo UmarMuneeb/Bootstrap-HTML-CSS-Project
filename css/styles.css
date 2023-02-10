@@ -1,0 +1,111 @@
+body{
+   font-family: 'Montserrat',
+        sans-serif;
+        font-weight: 800;
+        background-color: #fd7e14;
+       
+  
+}
+.navbar{
+    padding-top: 10px;
+}
+#upper{
+    
+    text-align: center;
+    padding-bottom: 3%;
+    
+}
+.main-heading{
+    padding-top: 10px;
+    letter-spacing: 5px;
+    font-family: 'Titan One', cursive;
+        font-weight: 500;
+        font-size: 100px;
+    color: brown;
+
+}
+.second-heading{
+    font-family: 'Titan One', cursive;
+    font-weight: 300;
+    font-size: 35px;
+    padding-bottom: 5px;
+
+}
+.third-heading
+{
+    font-family: 'Titan One', cursive;
+        font-weight:300;
+        letter-spacing: 1px;
+        font-size: 30px;
+        padding-bottom: 5px;
+}
+.R{color: rgb(3, 62, 141);}
+.U{color: rgb(1, 86, 1);}
+.B{color: rgb(175, 14, 14);}
+.I{color:rgb(247, 255, 1);}
+.C{color: white;}
+.S{color: black;}
+
+.middle
+{
+    text-align: center;
+    background-color: rgb(20, 89, 199);
+    padding: 5% 25%;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+#about{
+    
+    padding: 5% 15%;
+    background-color: white;
+    letter-spacing: 1px;
+}
+#solve{
+   
+    background-color: yellow;
+    padding: 5% 18%;
+  
+  width: 100%;
+}
+.cube{
+    padding-bottom: 10px;
+}
+.buttons{
+    position:static;
+    padding-left:40px;
+    padding-right: 40px;
+    margin-bottom:10px;
+    
+}
+.download{
+    padding-right: 5px;
+    padding-top: 3px;
+    font-size: larger;
+}
+.solution{
+    text-align: center;
+    padding: 15px auto;
+    
+}
+.app{
+    
+    color: white;
+    background-color: rgb(252, 89, 29);
+    padding: 15% 15% ;
+    letter-spacing: 1px;
+}
+.app-button{
+    padding-top: 10px;
+}
+.social-icon {
+    margin: 20px 10px;
+}
+
+#contact-us {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
